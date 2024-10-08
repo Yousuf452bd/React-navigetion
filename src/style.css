@@ -1,0 +1,41 @@
+/* stele navbar page not 404 Not Fund*/
+/* section{
+    margin-top: 80px;
+}
+ 
+ul.navbar-nav.ms-auto.mb-2.mb-lg-0.navLInk {
+    padding: 4px;
+}
+
+li.nav-item {
+   
+    padding: 4px;
+}
+
+li.nav-item a {
+    text-decoration: none;
+    padding: 15px;
+} */
+
+/* navbar style end */
+
+nav {
+    background:rgb(7, 175, 241);
+    text-align: center;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.nav-link{
+  
+    margin:1rem;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color:orange;
+}
+  .nav-link.active {
+    color: red;
+  }
