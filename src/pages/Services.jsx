@@ -1,4 +1,5 @@
 import React from "react";
+ 
 import { useNavigate } from "react-router-dom";
 
 export default Services;
@@ -17,7 +18,7 @@ const navigate = useNavigate();
 
                 </div>
             </div>
-            <button
+            <button class="btn btn-info"
              onClick={() => {
                  navigate("/Home");
             }}
