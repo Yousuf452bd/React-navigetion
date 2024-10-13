@@ -20,7 +20,7 @@ const navigate = useNavigate();
             </div>
             <button class="btn btn-info"
              onClick={() => {
-                 navigate("/Home");
+                 navigate("/");
             }}
             >
                 Go to Home page
