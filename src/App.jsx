@@ -14,6 +14,7 @@ import Navbar from "./conponents/Navbar";
  
  
  
+ 
 
  
 
@@ -27,7 +28,7 @@ function App() {
 <BrowserRouter>
          <Navbar/>
       <Routes>
-        <Route path="/Home" element={<Home/>}></Route>
+        <Route path="/" element={<Home/>}></Route>
         <Route path="/Blog" element={<Blog/>}> </Route>
         <Route path="/Services" element={<Services/>}></Route>
         <Route path="/Profile" element={<Profile/>}> </Route>

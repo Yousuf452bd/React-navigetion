@@ -7,7 +7,6 @@ import './style.css'
 
 createRoot(document.getElementById('root')).render(
   <div>
-    <App />
-   
+     <App></App>
   </div>,
 )
