@@ -14,10 +14,6 @@ import Navbar from "./conponents/Navbar";
  
  
  
- 
-
- 
-
 function App() {
   
 

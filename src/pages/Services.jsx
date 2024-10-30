@@ -23,7 +23,7 @@ const navigate = useNavigate();
                  navigate("/");
             }}
             >
-                Go to Home page
+                Go to Home page section 
                 
                 </button>
     </div>
